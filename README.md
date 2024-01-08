@@ -3,6 +3,18 @@
 
 <p align="center"> <img height="500" width="500" alt="Guitar Hero" src="images/guitarcontroller.jpg" /> </p>
 
+
+# ⛏️ Built Using
+- CAT5 Cable
+- 9 Switches (MX Cherry or Kaihl switches)
+- Steel ball tilt sensor
+- 1x 2 or 3 post switch (toggles the tilt sensor)
+- Arduino Pro Micro
+- M3 Bolt Screws
+- Copper wire thin gauge
+- Serial Cable Male + Female
+- Solder 
+
 <div>
 <h2 align="center"> ▀▄▀▄▀▄   🎀  𝒮𝒯𝐸𝒫𝒮  🎀   ▄▀▄▀▄▀ </h2>
   <div align="center">
@@ -14,19 +26,31 @@
 <b>2:</b> Gather Materials together. 
 </li>
 <li>
-<b>3:</b> ///////// --- Have to finish this portion 
+<b>3:</b> Solder the Fret first.
 </li>
 <li>
-<b>4:</b> /////////
+<b>4:</b> Wire a common ground to all pins.
 </li>
 <li>
-<b>5:</b> /////////
+<b>5:</b> Solder the CAT5 cable to each switch. 
 </li>
 <li>
-<b>6:</b> /////////
+<b>6:</b> Solder the CAT5 from the frets and the grounding cable to the Serial Connector. 
 </li>
 <li>
-<b>7:</b> /////////
+<b>7:</b> The Serial ends should match up continue to solder the following switches. 
+</li>
+<li>
+<b>8:</b> Run a positive wire from each individual input switch, solder into any of the # holes on the Pro Micro. 
+</li>
+<li>
+<b>9:</b> Switch on the faceplate is used to toggle the tilt sensor. 
+</li>
+<li>
+<b>10:</b> Interrupt the positive lead going to the sensor insert the toggle switch there. 
+</li>
+<li>
+<b>11:</b> Program micro controller. 
 </li>
 <br><br><br>
 </div>
@@ -37,9 +61,9 @@
   
 <h2 align="center">(っ◔◡◔)っ ♥ </h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="left" width="373.5px" height="208.5px">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="left" width="320px" height="208.5px">
     
-# Future links to use 
+# Future links + Acknowledgements
 - https://clonehero.net/releases/v1.0.0.4080/
 * https://sanjay900.github.io/guitar-configurator/
 + https://www.printables.com/model/479046-minicaster-mini-clone-heromidi-controller
