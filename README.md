@@ -1,7 +1,7 @@
 <h1 align="center">ᴍɪɴɪ ɢᴜɪᴛᴀʀ ʜᴇʀᴏ ᴄᴏɴᴛʀᴏʟʟᴇʀ</h1>
 <h3 align="center">【﻿３Ｄ　Ｐｒｉｎｔｅｄ　Ｃｕｓｔｏｍ】</h3>
 
-<p align="center"> <img height="500" width="500" alt="Guitar Hero" src="images/guitarcontroller.jpg" /> </p>
+<p align="center"> <img height="500" width="500" alt="Guitar Hero" src="images/guitar_02.jpg" /> </p>
 
 
 # ⛏️ Built Using
@@ -57,7 +57,7 @@
 <div>
   
 <h2 align="center">░THE░ ░WIRING░ ░JOB░</h2>
-<p align="center"> <img height="700" width="500" alt="Guitar Hero" src="images/guitarhero.jpg" /> </p>
+<p align="center"> <img height="700" width="500" alt="Guitar Hero" src="images/guitar_01.jpg" /> </p>
   
 <h2 align="center">(っ◔◡◔)っ ♥ </h2>
   <div align="center">
